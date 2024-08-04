@@ -1,6 +1,6 @@
 ### Hello! I'm Samuel Starke
 
-- 🌱 I'm in the 3rd period of Computer Science
+- 🌱 I'm in the 5th period of Computer Science
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starkezin&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Starkezin&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
